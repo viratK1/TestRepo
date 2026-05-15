@@ -13,6 +13,6 @@ QtObject {
     property string default_font: "HelveticaNeue MediumCond"
     property string joule_platform: "mjoule_948.m86"
     property string g2h_file: "mjoule_948.tgz"
-    property string build_ver: "0199C"
+    property string build_ver: "0200C"
     property string controller_build: "6300/6711"
 }
