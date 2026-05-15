@@ -13,6 +13,10 @@ QtObject {
     property string default_font: "HelveticaNeue MediumCond"
     property string joule_platform: "mjoule_948.m86"
     property string g2h_file: "mjoule_948.tgz"
+<<<<<<< HEAD
     property string build_ver: "0193C"
+=======
+    property string build_ver: "0195C"
+>>>>>>> 12d9b39 (Add Style.qml component with initial properties and settings)
     property string controller_build: "6300/6711"
 }
